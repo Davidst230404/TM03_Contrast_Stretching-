@@ -1,5 +1,5 @@
 
-                   TM 03 – Contrast Stretching Menggunakan LUT
+    TM 03 – Contrast Stretching Menggunakan LUT
 **Nama:** David Stanley  
 **NIM:** 231110088
 
@@ -28,8 +28,4 @@ menggunakan Look Up Table (LUT) pada citra `Pout.tif`.
 ## Rumus
 
 y = ((x - a) / (b - a)) × (d - c) + c
-================================================================================
-
-
-
 ================================================================================
